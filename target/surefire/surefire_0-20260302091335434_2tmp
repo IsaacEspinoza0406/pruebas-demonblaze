@@ -1,0 +1,6 @@
+#surefire_0
+#Mon Mar 02 09:13:35 CST 2026
+headless=false
+basedir=/home/mz/metricas/3-2-26-pruebasDemoblaze
+pauseBeforeQuitMs=15000
+localRepository=/home/mz/.m2/repository
